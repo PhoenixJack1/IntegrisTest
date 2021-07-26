@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrisTest", "IntegrisTest\IntegrisTest.csproj", "{B1965D1D-E698-4E62-82AE-B0BCC32CE4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopStorage", "shopStorage\shopStorage.csproj", "{56D6B856-E4D8-407B-AA98-15CF98F76604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1965D1D-E698-4E62-82AE-B0BCC32CE4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1965D1D-E698-4E62-82AE-B0BCC32CE4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1965D1D-E698-4E62-82AE-B0BCC32CE4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1965D1D-E698-4E62-82AE-B0BCC32CE4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D6B856-E4D8-407B-AA98-15CF98F76604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D6B856-E4D8-407B-AA98-15CF98F76604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D6B856-E4D8-407B-AA98-15CF98F76604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D6B856-E4D8-407B-AA98-15CF98F76604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A87C492E-F32B-474F-8AA4-6AE9CB8FF362}
+	EndGlobalSection
+EndGlobal
